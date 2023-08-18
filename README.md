@@ -59,6 +59,7 @@ Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at
 ---
 
 ### :fire: My Stats :
+        https://github-readme-streak-stats.herokuapp.com/?user=lakhiwal18
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakhiwal18&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhiwal18)](https://github.com/lakhiwal18/github-readme-stats)
